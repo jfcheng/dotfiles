@@ -111,5 +111,5 @@ eval "$(starship init zsh)"
 
 
 # STARTUP
-fetch # Display current screenfetch defined in .bash_aliases
+
 

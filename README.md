@@ -4,6 +4,9 @@ My personal dotfiles and an installer script to set them up. In this guide I ref
 
 - [Dotfile Installation](#dotfile-installation)
 
+# Get basic tools
+
+apt install wget git
 
 # Dotfile Installation
 

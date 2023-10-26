@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # Dotfile paths
 dir=~/dotfiles
